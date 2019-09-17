@@ -14,7 +14,7 @@ clone the github repository Vegetam/WA-Technical-Challenge.git
 convert project to maven then run clean install it
 
 
-#Run Project :
+# Run Project :
 
 Put the required input csv file into resources folder like - /DataFilterUtility/src/main/resources/summary.csv
 
